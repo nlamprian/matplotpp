@@ -1,7 +1,7 @@
 # matplotpp
 **MATPLOT++** is a Matlab like simple plotting framework in C++. In cases where you need to make plots of data generated in C/C++, `matplotpp` enables you to generate 2D/3D plots, histograms, scatterplots, etc, just by adding a few lines of code, without any external plotting tool such as MATLAB or Gnuplot.
 
-![logo](http://wiki.matplotpp.googlecode.com/git/logo.png)
+![logo](https://github.com/yuichikatori/matplotpp/wiki/images/logo.png)
 
 MATPLOT++ features are the following:
 * MATLAB like command set.
@@ -20,7 +20,7 @@ sudo apt-get install freeglut3-dev libglew-dev
 # Compilation
 
 ```bash
-git clone https://github.com/pAIgn10/matplotpp.git
+git clone https://github.com/nlamprian/matplotpp.git
 cd matplotpp
 
 mkdir build
